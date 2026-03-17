@@ -28,7 +28,7 @@ This mobile application is developed using the **Flutter** framework as part of 
 ## Team Organization
 The project is managed through clearly defined coordination roles to ensure smooth operations and milestone tracking:
 
-* **Yusuf [Soyad] (ID)**: **Project Coordinator** – Oversees team meetings and ensures milestones are met.
+* **[Member 1 Name] (ID)**: **Project Coordinator** – Oversees team meetings and ensures milestones are met.
 * **[Member 2 Name] (ID)**: **Documentation & Submission Lead** – Prepares written materials and handles SUCourse submissions.
 * **[Member 3 Name] (ID)**: **Testing & Quality Assurance Lead** – Regularly reviews and tests features to ensure code quality.
 * **[Member 4 Name] (ID)**: **Integration & Repository Lead** – Manages the GitHub repository and coordinates version control.
