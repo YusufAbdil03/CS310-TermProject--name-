@@ -1,4 +1,4 @@
-# [Campus Communication Portal]
+# Campus Communication Portal
 
 ## Project Description
 This mobile application is developed using the **Flutter** framework as part of the **CS310 Mobile Application Development** course at Sabancı University. The platform serves as a centralized hub for the campus community, providing real-time updates and fostering interaction among students and staff. The application integrates **Firebase** for secure user authentication and scalable data storage.
